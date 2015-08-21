@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="Imagens">
+    <file>Fundo Branco.jpg</file>
+    <file>Grid3.png</file>
+  </qresource>
+</RCC>
