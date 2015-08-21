@@ -49,7 +49,7 @@
      </spacer>
     </item>
     <item row="0" column="0">
-     <widget class="QPushButton" name="pushButton_1">
+     <widget class="QPushButton" name="pushButton_00">
       <property name="sizePolicy">
        <sizepolicy hsizetype="Ignored" vsizetype="Ignored">
         <horstretch>0</horstretch>
@@ -60,12 +60,12 @@
        <string notr="true">border-image: url(:/Imagens/Fundo Branco.jpg);</string>
       </property>
       <property name="text">
-       <string>PushButton</string>
+       <string/>
       </property>
      </widget>
     </item>
     <item row="2" column="0">
-     <widget class="QPushButton" name="pushButton_4">
+     <widget class="QPushButton" name="pushButton_10">
       <property name="sizePolicy">
        <sizepolicy hsizetype="Ignored" vsizetype="Ignored">
         <horstretch>0</horstretch>
@@ -76,12 +76,12 @@
        <string notr="true">border-image: url(:/Imagens/Fundo Branco.jpg);</string>
       </property>
       <property name="text">
-       <string>PushButton</string>
+       <string/>
       </property>
      </widget>
     </item>
     <item row="2" column="2">
-     <widget class="QPushButton" name="pushButton_6">
+     <widget class="QPushButton" name="pushButton_11">
       <property name="sizePolicy">
        <sizepolicy hsizetype="Ignored" vsizetype="Ignored">
         <horstretch>0</horstretch>
@@ -92,12 +92,12 @@
        <string notr="true">border-image: url(:/Imagens/Fundo Branco.jpg);</string>
       </property>
       <property name="text">
-       <string>PushButton</string>
+       <string/>
       </property>
      </widget>
     </item>
     <item row="4" column="0">
-     <widget class="QPushButton" name="pushButton_5">
+     <widget class="QPushButton" name="pushButton_20">
       <property name="sizePolicy">
        <sizepolicy hsizetype="Ignored" vsizetype="Ignored">
         <horstretch>0</horstretch>
@@ -108,12 +108,12 @@
        <string notr="true">border-image: url(:/Imagens/Fundo Branco.jpg);</string>
       </property>
       <property name="text">
-       <string>PushButton</string>
+       <string/>
       </property>
      </widget>
     </item>
     <item row="4" column="4">
-     <widget class="QPushButton" name="pushButton_9">
+     <widget class="QPushButton" name="pushButton_22">
       <property name="sizePolicy">
        <sizepolicy hsizetype="Ignored" vsizetype="Ignored">
         <horstretch>0</horstretch>
@@ -124,12 +124,12 @@
        <string notr="true">border-image: url(:/Imagens/Fundo Branco.jpg);</string>
       </property>
       <property name="text">
-       <string>PushButton</string>
+       <string/>
       </property>
      </widget>
     </item>
     <item row="2" column="4">
-     <widget class="QPushButton" name="pushButton_8">
+     <widget class="QPushButton" name="pushButton_12">
       <property name="sizePolicy">
        <sizepolicy hsizetype="Ignored" vsizetype="Ignored">
         <horstretch>0</horstretch>
@@ -140,7 +140,7 @@
        <string notr="true">border-image: url(:/Imagens/Fundo Branco.jpg);</string>
       </property>
       <property name="text">
-       <string>PushButton</string>
+       <string/>
       </property>
      </widget>
     </item>
@@ -161,7 +161,7 @@
      </spacer>
     </item>
     <item row="4" column="2">
-     <widget class="QPushButton" name="pushButton_7">
+     <widget class="QPushButton" name="pushButton_21">
       <property name="sizePolicy">
        <sizepolicy hsizetype="Ignored" vsizetype="Ignored">
         <horstretch>0</horstretch>
@@ -172,12 +172,12 @@
        <string notr="true">border-image: url(:/Imagens/Fundo Branco.jpg);</string>
       </property>
       <property name="text">
-       <string>PushButton</string>
+       <string/>
       </property>
      </widget>
     </item>
     <item row="0" column="2">
-     <widget class="QPushButton" name="pushButton_2">
+     <widget class="QPushButton" name="pushButton_01">
       <property name="sizePolicy">
        <sizepolicy hsizetype="Ignored" vsizetype="Ignored">
         <horstretch>0</horstretch>
@@ -188,7 +188,7 @@
        <string notr="true">border-image: url(:/Imagens/Fundo Branco.jpg);</string>
       </property>
       <property name="text">
-       <string>PushButton</string>
+       <string/>
       </property>
      </widget>
     </item>
@@ -209,7 +209,7 @@
      </spacer>
     </item>
     <item row="0" column="4">
-     <widget class="QPushButton" name="pushButton_3">
+     <widget class="QPushButton" name="pushButton_02">
       <property name="sizePolicy">
        <sizepolicy hsizetype="Ignored" vsizetype="Ignored">
         <horstretch>0</horstretch>
@@ -220,7 +220,7 @@
        <string notr="true">border-image: url(:/Imagens/Fundo Branco.jpg);</string>
       </property>
       <property name="text">
-       <string>PushButton</string>
+       <string/>
       </property>
      </widget>
     </item>
